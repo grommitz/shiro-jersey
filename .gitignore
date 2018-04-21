@@ -3,3 +3,6 @@ target
 .settings
 .classpath
 infinitest.filters
+.idea/
+*.iml
+
